@@ -196,9 +196,11 @@ button {
     }
     .table{
         font-size: 1.5rem;
+        z-index: -1;
     }
     .restart{
         top: 18%;
         left: 3%;
+        z-index: 1;
     }
   }
